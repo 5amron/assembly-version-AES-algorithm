@@ -7,5 +7,7 @@ as the main program. at last the result will be in t1.txt(automatically generate
 of course the assembly code of this popular algorithm is faster and can reduse the time.
 nasm compiler is suitable for all assembly codes i use. 
 
+codes have been tested and the .exe file is the result that works!
+
 samanSadeghyan
 samronsadeghyan@gmail.com
