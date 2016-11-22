@@ -1,4 +1,4 @@
-# assembly_version_AES_algorithm_nasm
+# assembly-version-AES-algorithm-nasm
 
 this is assembly version of AES encryption algorithm (https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 functions encrypt and decrypt that call other assembly functions to encrypt and decrypt an instance plain text.
