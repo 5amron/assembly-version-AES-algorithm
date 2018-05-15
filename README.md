@@ -9,5 +9,4 @@ nasm compiler is suitable for all assembly codes and they've been implemented un
 
 codes have been tested and the .exe file is the result that works!
 
-samanSadeghyan
-s.sadeghy325@gmail.com
+
